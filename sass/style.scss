@@ -1,0 +1,53 @@
+$colorBody: #ffffff;
+$text-shadow: 1px 2px 10px #cfcfcf;
+$colorWhite: white;
+$colorB1: #f9f9f9;
+$colorBlue: #0d273b;
+
+@mixin fontWeight($style){
+    font-weight: $style;
+}
+@mixin margin_left($px){
+    margin-left: $px;
+}
+
+
+@mixin botones{
+    width: 40%;
+    margin: auto;
+    height: 40px;
+    color: #000;
+    text-shadow: $text-shadow;
+    background: #598daf;
+    border-radius: 10px;
+    font-size: 20px;
+}
+@mixin Width_Height($width, $height){
+    width: $width;
+    height: $height;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: $colorBody;
+}
+
+
+.container{
+    width: 98%;
+    margin: auto;
+}
+
+@import 'components/header';
+@import 'components/section';
+@import 'components/footer';
+
+
+
+
+
+

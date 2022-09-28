@@ -1,0 +1,18 @@
+INTEGRANTES:
+Deyser Andres Orozco Yepes
+Osmaider Garces Torres
+
+
+1: D
+2: C
+3: B
+4: C
+5: C
+6: A
+7: D
+8: A
+9: D
+10: D
+
+
+NOTA: El Cuadro de RC significa la pregunta correcta y la RS significa la respuesta Selccionada por el Usuario

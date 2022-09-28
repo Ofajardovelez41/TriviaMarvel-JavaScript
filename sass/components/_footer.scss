@@ -1,0 +1,13 @@
+footer{
+    background: $colorBlue;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    p{
+        color: white;
+        text-shadow: $text-shadow;
+        font-weight: bold;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+}
